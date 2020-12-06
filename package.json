@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@nuxt/typescript-runtime": "^2.0.0",
-    "core-js": "^3.6.5",
+    "core-js": "^3.8.1",
     "nuxt": "^2.14.6",
     "simple-analytics-vue": "^1.1.1"
   },
